@@ -1,0 +1,594 @@
+Hi, xin mến chào các bạn. Chào mừng các
+bạn đã quay trở lại với Bar Version,
+kênh chia sẻ kiến thức phát triển toàn
+diện bản thân qua các cuốn sách hay. Hôm
+nay mình xin chia sẻ tới các bạn một
+cuốn sách rất tào bạo. Táo bạo ở chỗ nó
+chỉ thẳng ra cho bạn và mình một điều
+rằng chúng ta rất có thể là những người
+siêu thiếu hiểu biết ở thời đại này. Một
+thời đại của bùng nổ thông tin, của công
+nghệ và trí tuệ nhân tạo đang không
+ngừng phát triển.
+Nhưng mà đây là một sự táo bạo có căn cứ
+nghiên cứu và sự liệu thống kê. Nếu bạn
+muốn vượt lên chính mình, chấp nhận
+những hạn chế, sẵn sàng phá vỡ chúng để
+có thể đi một bước thay đổi đơn giản
+nhưng cốt lõi, từ đó giúp nâng cấp bản
+thân và cuộc sống trong thời đại mới này
+thì hãy cùng nhau tìm hiểu cuốn sách
+ngày hôm nay Head in the cloud của
+William Bstone. Tự đề cuấn này dịch trực
+tiếp đó là bộ não trong đám mây. Điều
+này hàm ý rằng trí não của chúng ta luôn
+có những đám mây mù mịt che khuất sự
+sáng suốt, ngăn cản ta tiến bộ mà bạn
+không hề hay biết.
+Rồi bây giờ mời các bạn cùng lắng nghe.
+Bạn có phải là người siêu thiếu hiểu
+biết ở thời đại này?
+Tác giả có một quan điểm. Đây là một
+thời đại mà con người thiếu kiến thức và
+thiếu hiểu biết nhất. Bạn có thể sẽ
+không phục và thắc mắc. Bây giờ là thời
+đại hoàng kim của tri thức. Người người
+học tập mỗi năm trả phí cho các khóa
+học, còn nhiều hơn cả người xưa học suốt
+một đời. Sao lại nói là thời đại thiếu
+tri thức nhất? Đúng là con người ngày
+nay có cơ hội tiếp cận tri thức một cách
+dễ dàng hơn, nhưng đồng thời số lượng và
+độ sâu các lĩnh vực kiến thức cũng tăng
+lên chóng mặt. Đây là một thời đại bông
+nổ tri thức. Không một cá nhân nào dù
+chăm chỉ và thông minh đến đâu cũng khó
+có thể tiếp thu được trọn vẹn dù đó là
+một lĩnh vực hẹp. Hơn nữa, tính xác định
+của tri thức đang dần mất đi. Kiến thức
+luôn liên tục được cập nhật. Điều đúng
+hôm nay có thể sai vào ngày mai. So với
+một đại dương bao la tri thức và không
+có tính xác định như thế này, tốc độ học
+của chúng ta lại quá chậm, nhưng chúng
+ta lại ít chủ động tìm hiểu hay cập nhật
+tri thức. Vậy thì hệ quả là gì?
+Con người trong xã hội hiện đại đang dần
+trở nên vô tri, thiếu hiểu biết trong
+rất rất nhiều lĩnh vực. Theo thống kê
+vào tháng 9 năm 2010, từ một khảo sát
+phát hiện 41 người trưởng thành Mỹ không
+thể nêu tên phó tổng thống, 20% nghĩ
+laser hoạt động bằng cách tập trung
+sóng, 58% không biết tác giả cuốn tiểu
+thuyết Huy Hoàng cá voi trắng là ai.
+Trong đó 4% cho rằng tác giả cuốn sách
+ấy là Stephen King. Điều này chứng tỏ
+tình trạng thiếu hiểu biết phồ cập trong
+xã hội Mỹ. Nếu khảo sát tương tự được
+thực hiện ở Việt Nam thì kết quả chưa
+chắc đã khả quan. Tác giả cùng nhóm
+nghiên cứu đã thực hiện cuộc khảo sát
+quy mô lớn tại Mỹ với các câu hỏi nhằm
+xác định mọi người có đạt chuẩn là người
+có kiến thức hay không. Ví dụ một số câu
+hỏi như sau. Bạn có thể thử xem xét bản
+thân có biết chắc đáp án hay không.
+Những câu hỏi đó là cái nôi của văn minh
+nhân loại là ở đâu? Ai Cập thuộc trêu
+lục nào? Chữ tượng hình là văn tự người
+nào sử dụng đầu tiên. Tại sao khi chúng
+ta là ban ngày thì những nơi khác trên
+thế giới lại là ban đêm? Vì sao sơ Diêm
+Vương được gọi là hành tinh lùn? Cách
+mạng công nghiệp có ý nghĩa gì? Nhờ vào
+con đường nào Cơ Đốc giáo phát triển và
+truyền bá đến các nước cận Đông? Tim tại
+sao là một cơ quan đặc biệt? Đèn báo
+hiệu đến từ đất liền gọi là gì? Ý nghĩa
+của ngày 4 tháng là gì? Câu này sẽ dễ
+dàng với người Mỹ. Còn đối với người
+Việt Nam thì chúng ta thay bằng một câu
+khác ngày 2 tháng 9 có ý nghĩa như thế
+nào? Đây là những kiến thức tổng hợp cơ
+bản nhất. Có người cho rằng toàn câu dễ
+nhưng tình hình không lạc quan như vậy.
+Bởi số ít người trả lời được đúng nhất
+cũng chỉ được 7/10 câu. Tuy nhiên không
+ít người liền phản đối. Những kiến thức
+này không có tác dụng thực tế và có thể
+tra bằng Google là được. Việc nhớ hay là
+không nhớ có gì nghiêm trọng đâu? Nếu có
+suy nghĩ như thế này thì khả năng lớn là
+bạn đang rơi vào một hiệu ứng được gọi
+là hiệu ứng Google, một hiện tượng tâm
+lý khi con người ta dựa dẫm vào các công
+cụ tìm kiếm trực tuyến. Biết rằng có thể
+dễ dàng tìm thấy thông tin này từ
+Internet mà có xu hướng không ghi nhớ
+trong trí óc. Đúng là bây giờ bằng một
+cố nhấp ta có thể tra những gì mình cần.
+Nhưng chúng ta cần biết rằng tri thức có
+thứ bậc. Lớp này xây trên lớp kia. Khi
+thiêu kiến thức nền tảng, bạn không thể
+hiểu những tầng cao hơn, có tra được thì
+cũng không thể thấu rõ. Hơn nữa, trong
+cuộc sống thường ngày, bạn phải đưa ra
+vô số quyết định lớn bé. Mỗi lựa chọn
+đều cần sự hiểu biết để đánh giá và phán
+đoán một cách sáng suốt. Nếu không có
+kiến thức nền tảng, cho dù là có
+internet, bạn cũng chẳng thể nhận ra sai
+lầm của mình.
+Trong sách có một trường hợp như thế
+này. Hiện nay nhiều nhà khoa học cho
+rằng gluten có thể dẫn đến bệnh tiểu
+đường. Vì thế các nhãn hàng chú trọng
+quảng cáo nhấn mạnh sản phẩm của mình
+không chứa gluten. Bây giờ trước mặt bạn
+là hai hộp khoai tây chiên, một hộp có
+dòng chữ không gluten, giá cao hơn, còn
+một hộp không đề gì cả. Bạn sẽ chọn hộp
+nào? Hầu hết mọi người đã chọn hộp không
+gluten vì lên mạng tra thấy sản phẩm
+không có gluten là tốt cho sức khỏe. Vậy
+nhưng đây là một lựa chọn sai lầm do
+thiếu đi sự hiểu biết. Bởi vì gluten vốn
+không tồn tại trong khoai tây, nó chỉ có
+trong lú mì và đại mạch. Nghiêm trọng
+hơn một điều mà chúng ta ít chú ý tới đó
+là có nhiều tri thức bạn không thể tìm
+ra thông qua mạng được. Vì nếu thiếu đi
+kiến thức nền tảng tổng hợp, bạn thậm
+chí còn không biết đến sự tồn tại của nó
+thì sao bạn có thể biết từ khóa để tìm?
+Tác giả gọi sự trống rỗng như thế này
+của não bộ là sự siêu thiếu hiểu biết.
+Siêu thiếu hiểu biết tức là không biết
+rằng mình không biết, hay nói cách khác
+là không nhận thức được bản thân mình
+thiếu hiểu biết. Một người ở trong tình
+trạng siêu thiếu hiểu biết quá lâu sẽ
+mắc kẹt vào hiệu ứng Danning Grooker.
+Đây là một nghịch lý hành vi, nghĩa là
+những người thiếu năng lực nhất, thường
+đánh giá sai nhất về khả năng của chính
+mình. Có một nghiên cứu như thế này, một
+số lượng lớn sinh viên được yêu cầu tự
+chấm điểm bài thi của mình, kết quả cho
+thấy nhóm điểm cao, dự đoán chính xác
+kết quả, thậm chí khiêm tốn hạ điểm
+xuống, trái lại nhóm điểm thấp nhất lại
+tự cho điểm cao bất thường.
+Điều tương tự bạn cũng có thể quan sát
+thấy trong cuộc sống. Ví dụ nhiều tài xế
+kỹ năng yếu lại thường là người tự tin
+rằng mình lái xe rất giỏi. Đây không
+phải sự kiêu ngạo đơn thuần mà đằng sau
+hành vi này chính là hệ quả của việc rơi
+vào hiệu ứng Danning Groker từ sự siêu
+thiếu hiểu biết. Vì não bộ trống rỗng,
+thiếu công cụ tự đánh giá dẫn đến ảo
+tưởng về bản thân và đưa ra những nhận
+định sai lầm. Khi rơi vào hiệu ứng này,
+bạn cũng dễ bị thao túng bởi một thuật
+ngữ đó là me me nghĩa là văn hóa di
+truyền. Tức là bạn sẽ mắc kẹt cho một
+khuôn mẫu văn hóa cố định, bị khống chế
+và che khuất sự nhận biết về trạng thái
+sống thực sự của mình trong nếm văn hóa
+đó. Từ đấy, bạn dễ dàng cảm thấy tự mãn,
+nhận định môi trường và bản thân hiện
+tại đã tốt rồi, không cần phải cải thiện
+thêm gì nữa. Cũng chính bởi vì đã siêu
+thiếu hiểu biết mà còn tự mãn, nên con
+người lại càng có xu hướng tìm cách biện
+minh cho sự thiếu hụt tri thức của bản
+thân. Tác giả gọi đây là sự vô tri, tức
+là hợp lý hóa cho sự hiểu biết của mình.
+Một trong những biểu hiện rõ rệt của
+hiện tượng vô tri hợp lý chính là có xu
+hướng cho rằng không cần thiết phải học
+hay tìm hiểu một kiến thức nào đó nếu
+chi phí bỏ ra vượt quá lợi ích mà bản
+thân có thể nhìn thấy. Chi phí bỏ ra ở
+đây có thể là thời gian, công sức hoặc
+là tài nguyên và lợi ích ở đây thường
+được đo lường chủ yếu bằng tiền bạc. Ví
+dụ hồi đi học mình vẫn thường nghe thấy
+nhiều người lớn nói rằng chỉ có giỏi
+toán lý hóa sau này mới kiếm được nhiều
+tiền. Còn học văn xử địa thì nghèo vô
+ích không khuyến khích con cái mình đi
+theo. Bây giờ cũng không ít người nhận
+định học thơ văn tìm hiểu nghệ thuật là
+phí thời gian. Hay nhiều người đọc sách
+chỉ đọc những cuốn kỹ năng, sách dạy
+thành công, dạy làm giàu. Còn sách về lý
+thuyết, tiểu thuyết, triết học không
+mang lại lợi ích gì nhiều. Chính vì
+những điều này mà tư tưởng một nghề cho
+chín còn hơn chín nghè đã ăn sâu và tiềm
+thức xã hội. Nhưng có đúng là như vậy
+không? Để trả lời cho câu hỏi này, tác
+giả thực hiện nhiều cuộc khảo sát và
+nghiên cứu nhằm tìm hiểu xem con người
+có thực sự cần học kiến thức, nền tảng
+tổng hợp hay không và nếu cần thì nó tạo
+ra ảnh hưởng như thế nào đến chất lượng
+cuộc sống, đến công việc, tư duy của
+người đó. Kết quả cho thấy trong thời
+đại mà tri thức có thể tra cứu dễ dàng
+như thế này, người hiểu biết rộng có
+kiến thức tổng hợp về các lĩnh vực văn
+học, lịch sử, địa lý, bách khoa, văn
+hóa, tài chính hay thể thao lại sống
+giàu có hơn, khỏe mạnh hơn và hạnh phúc
+hơn.
+Tại sao bạn nhất thiết phải nâng cấp
+kiến thức nền tảng tổng hợp của mình?
+Trên thực tế, người thiếu kiến thức tổng
+hợp cuộc sống lại thường gặp khó khăn về
+kinh tế hơn. Các nhà nghiên cứu chọn một
+nhóm số lượng lớn cùng độ tuổi 35 và đều
+có trình độ đại học tương đương. Những
+người này tham gia trả lời câu hỏi thuộc
+nhiều lĩnh vực khác nhau. Kết quả nhóm
+trả lời sai nhiều câu hỏi có thu nhập
+trung bình khoảng 40.000 USD một năm.
+Còn những người trả lời đúng toàn bộ có
+thu nhập 95.000 USD trên m1 năm, chênh
+lệch rất lớn, gấp 2,1 lần, gần 55.000
+USD.
+Tại sao lại có sự chênh lệch lớn như thế
+này? Nguyên do chính bởi vì những người
+có kiến thức tổng hợp tốt đều có đặc
+điểm chung là hiếu kỳ, thích khám phá.
+Sự hiếu kỳ giúp họ muốn hiểu biết về
+nhiều lĩnh vực và cũng vì thế họ thường
+dễ tìm kiếm cơ hội để tăng thu nhập,
+đồng thời cũng có khả năng hoàn thành
+tốt công việc hơn. Khi thu nhập tăng
+cao, họ lại có điều kiện mở rộng kiến
+thức. Đây là một vòng tròn tích cực của
+sự ham học hỏi. Điều thứ hai đó là khi
+một người không có đủ tri thức bên
+trong, họ cũng sẽ cách xa cuộc sống hạnh
+phúc. Hạnh phúc liên quan đến thu nhập.
+Đây là kết quả nghiên cứu của Daniel
+Conman, nhà tâm lý học đạt giải Nobel.
+Ông chỉ ra rằng người Mỹ có mức độ hạnh
+phúc nhất khi thu nhập 75.000 USD một
+năm. Nếu mức thu nhập tăng quá cao thì
+mức độ hạnh phúc không giảm, thậm chí
+còn giảm nhẹ. Nhưng những người có mức
+thu nhập quá thấp, cuộc sống chắc chắn
+rất nhiều phiền muộn. Như khảo sá bên
+trên, những người có hiểu biết giọng thu
+nhập đạt ngưỡng 95.000 USD một năm, có
+khả năng duy trì mức độ hạnh phúc của
+bản thân. Ngược lại, những người thiếu
+kiến thức nền tảng thu nhập chỉ khoảng
+40.000 USD một năm phải đối diện với
+cuộc sống đầy áp lực và bất an. Người sư
+vẫn nói quả thật không sai, cái khó bó
+cái khôn, bần cùng sinh đạo tặc. Một
+nghiên cứu nữa chứng minh một người quá
+thiếu hiểu biết, người sẽ dễ dàng làm
+việc trái lương tâm để trở nên giàu có.
+Cuộc khảo sát đưa ra câu hỏi nếu có một
+nút bấm biến bạn thành tỷ phú nhưng ngẫu
+nhiên phải giết chết một người lạ mà
+không ai phát hiện bạn là người ra tay,
+bạn có bấm không?
+Điều này tưởng chừng là vô lý nhưng cuộc
+đời tồn tại nguyên lý gọi là 1/5. Có
+nghĩa dù vô lý thế nào vẫn sẽ có 20%
+người đồng ý hoặc làm theo. Thực tế thì
+thống kê cho thấy 20% người trong số đó
+đã chọn bấm nút và họ lại là những người
+đạt điểm thấp trong bài kiểm tra kiến
+thức tổng hợp.
+Điều thứ ba đó là người có kiến thức
+tổng hợp vững thường có thể trạng tốt
+hơn bởi họ hiểu được những kiến thức phổ
+thông về sức khỏe sinh học như mối liên
+hệ giữa vi khuẩn HB và loét dạ dày,
+cacbonydrate là gì hay gluten ảnh hưởng
+ra sao đến cơ thể. Nhờ đó, họ không dễ
+dàng dao động hay hoang mang trước những
+làn sóng thông tin sức khỏe thay đổi
+liên tục trên mạng như hiện nay mà biết
+cách lựa chọn những phương pháp chăm sóc
+sức khỏe một cách khoa học và phù hợp
+với thể trạng cá nhân. Và cuối cùng, một
+điều rất quan trọng mà chúng ta phải đối
+diện. Sự thiếu hụt kiến thức không chỉ
+ảnh hưởng đến cuộc sống cá nhân của bạn
+mà còn tác động xấu đến người khác, đến
+cộng đồng và cả thế giới.
+Tác giả thực hiện một cuộc khảo sát bao
+gồm 16 câu hỏi kiến thức phổ thông,
+trong đó có hai câu liên quan đến vị trí
+nước Ukraina. Sau phần hỏi đáp kiến thức
+này là một câu hỏi về quan điểm chính
+sách. Bạn có đồng ý xây tường ở biên
+giới để ngăn chặn nhập cư trái phép
+không? Kết quả cho thấy những người trả
+lời đúng càng nhiều, càng phản đối việc
+xây tường. Ngược lại, những người không
+tìm được Ukraina trên bản đồ lại có xu
+hướng đồng tình ngăn chặn những người vô
+gia cư, không nơi nương tựa. Sự thực thì
+việc thiếu hút kiến thức, đặc biệt là
+kiến thức địa lý, lịch sử và xã hội đã
+ảnh hưởng trực tiếp đến quan điểm chính
+trị, quyết định chính sách của người đó.
+Nhiều người không nhận thức được điểm
+ngủ kiến thức ở bản thân, không biết
+mình thiếu hiểu biết đến mức nào, nhưng
+vẫn mạnh dạn bày tỏ quan điểm và đi bỏ
+phiếu. Vô tình đã dẫn đến những lựa chọn
+sai lầm ảnh hưởng lâu dài đến định hình
+tương lai của một đất nước và thậm chí
+là thế giới. Nghiêm trọng hơn, trong
+thời đại mà ai cũng có thể ẩn sau bàn
+phím, tự do ngôn luận như hiện nay, sự
+thiếu hiểu biết của nhiều người cũng có
+thể vô tình hủy hoại một đời người. Năm
+2015, cây hải mạng Jay Brandcom đã đăng
+lên Facebook một bức ảnh hậu trường của
+đạo diễn lừng danh Stephen Spielber khi
+quay bộ phim Công viên kỳ Chura. Trong
+hình vị đạo diễn ngồi bên một con khủng
+long ba sừng. Bức ảnh này kèm theo một
+dòng chú thích, một gã thợ săn giết chóc
+vì thú vui đang hả hê ngồi cạnh con mồi
+mới săn được. Hãy chia sẻ bức ảnh này để
+cả thế giới biết đến kẻ tiểu nhân này.
+Nhưng không ngờ bài đang nhanh chóng
+được chia sẻ hơn 30.000 lần trên thế
+giới và nhận về hàng chục nghìn bình
+luận đầy phẫn nộ. Sao đạo diễn nổi tiếng
+lại đi săn và giết một con khủng long ba
+sừng? Có thể bạn sẽ bật cười vì điều ngớ
+ngẩn này. Khủng long đã tiệt trủng từ
+bao giờ rồi? Thời đại này còn có khủng
+long đâu mà họ lại công kích người khác
+như vậy. Thế nhưng đó là sự thật về tình
+trạng siêu thiếu hiểu biết. Bởi vì nhiều
+người không hiểu từ Triceratops nghĩa là
+gì, khi nhìn hình ảnh cũng không nhận ra
+đó là sử dụng công nghệ mà cho rằng vị
+đạo diễn này đã giết một con vật có hình
+thù kỳ quái nào đó. Đây chỉ là một ví dụ
+trong vô số những điều mà con người
+không biết được mình không biết về sự
+xác thực của các thông tin trên mạng.
+Bất cứ những gì bạn phát ngôn ra trong
+sự thiếu hiểu biết của mình sẽ đều có
+thể ảnh hưởng nghiêm trọng từ thế giới
+tinh thần của người khác và cả chính
+bạn. Đây chính là tác hại của sự vô tri
+toàn cầu trong thời đại công nghệ bùng
+nổ thông tin như hiện nay. Vậy cách cốt
+lõi để phá vỡ tình trạng siêu thiếu hiểu
+biết là gì?
+Cách cốt lõi nhất để phá vỡ tình trạng
+siêu thiếu hiểu biết, xây dựng nền tảng
+kiến thức rộng giúp bạn sống minh triết
+và hạnh phúc hơn đó là phải bắt đầu từ
+nắm các đầu mối kiến thức. Học sâu và
+xây dựng kiến thức hệ thống của một
+chuyên ngành nào đó là quan trọng. Nhưng
+không phải trọng tâm của cuốn sách này.
+Trọng tâm của nó nằm ở lời khuyên táo
+bạo cho chúng ta. Hãy học một cách phức
+tạp hơn, đa dạng kiến thức hơn. Dù cho
+mỗi thứ biết một nửa vời cũng không sao.
+Nghe có vẻ kỳ lạ nhưng nó lại hợp lý với
+chúng ta trong thời đại bây giờ. Bởi vì
+việc học trong quá khứ là để đối phó với
+cái đã biết, còn việc học trong thời đại
+này là để chuẩn bị cho cái chưa biết.
+Mỗi người sẽ có những vấn đề rất riêng
+mà không phải ai biết trước câu trả lời.
+Nếu ngày xưa học để thi cử thì bây giờ
+cách học tốt nhất lại phải như một thám
+tử đang phá án. Vậy thì khi là một thám
+tử, bạn sẽ không bao giờ bỏ qua những
+đầu mối. Đó là những manh mối dù rất nhỏ
+nhưng đều trở nên quý giá và giúp bạn
+phá được án. Càng nhiều góc nhìn khác
+nhau càng giúp bạn thoát khỏi điểm mù
+trong trí não và dễ mở ra hướng mới.
+Trong đầu bạn có càng nhiều đầu mùi kiến
+thức càng tốt, bạn sẽ có thể lần theo
+đầu mùi đó tiếp tục tra cứu trên mạng để
+giải quyết được vấn đề và dùng nó như
+một chìa khóa mở ra tri thức mới. Ai
+hiểu được điều này sẽ lựa chọn một cách
+học hoàn toàn bứt phá như một bước đệm
+phát triển vược bậc của mình trong kỷ
+nguyên số. Tác giả khuyên rằng mỗi một
+lĩnh vực chúng ta nên nắm được ít nhất
+15 đến 20 khái niệm nền tảng. Ví dụ như
+lĩnh vực tài chính có thể tìm hiểu về
+lạm phát, lãi kép. Khoa học thì như
+entropy lực hấp dẫn. Lịch sử thì thế
+chiến thứ hai chiến tranh lạnh. Tâm lý
+học thì có thể là tâm lý bày đàn, phức
+cảm tự ti vân vân. Hãy y học sức khỏe
+thì tìm hiểu kháng sinh cân bằng âm
+dương là gì. Những khái niệm này chính
+là những đầu mối để giúp bạn dò tìm. Chỉ
+khi có được đầu mối, bạn mới có khả năng
+vận dụng các công cụ tra cứu, sách
+chuyên khảo, bài viết học thuật một cách
+hiệu quả. Nếu thiêu khái niệm nền tảng,
+những thông tin đó chỉ là những màu tin
+rời dạc, khó có thể liên kết, thường dễ
+bị hiểu sai về bối cảnh. Ngoài ra, bạn
+cũng có thể tích lũy thêm đầu mối kiến
+thức bằng cách kết nối với những người
+giỏi trong nhiều lĩnh vực khác nhau. Sự
+kết nối này không nhất thiết là phải cố
+gắng chơi thân với người đó mà chỉ cần
+duy trì một mối liên hệ lòng hoặc như
+theo dõi họ qua các nền tảng trực tuyến.
+Khi gặp khó khăn, những người có năng
+lực thường biết chính xác ai là người họ
+cần học hỏi, ai sở hữu những đầu mối
+quan trọng. Và đó cũng là cách giúp họ
+nhanh chóng có được thông tin hữu ích
+hoặc giải pháp cho bản thân. Ngược lại,
+những người thiếu năng lực thường rơi
+vào trạng thái bối rối, cố gắng mò mẫm
+và tìm câu trả lời trong bế tắc. Rồi
+tiếp đến đó là bước số hai để phá vỡ
+tình trạng siêu thiếu hiểu biết. Đó là
+đừng chỉ dò nhìn, hãy ghi nhớ. Như đã
+nói ở trên, hiệu ứng Google phổ biến
+hiện nay sẽ khiến bạn có xu hướng quên
+nhanh những thông tin dễ dàng tìm qua
+mạng. Một trường hợp tiêu biểu của việc
+rơi vào hiệu ứng Google đó là ghi nhớ
+bằng cách chụp ảnh. Nhiều sinh viên khi
+đi học thích chụp slide bài giảng của
+giáo viên bởi vì họ thường có một tâm lý
+yên tâm. Chụp xong về sẽ xem lại. Thậm
+chí không cần nghe kỹ vì đã lưu vào điện
+thoại rồi. Nhưng hãy kiểm tra điện thoại
+của bạn, bao nhiêu bức ảnh slide bạn
+chưa từng xem lại lần nào. Phương pháp
+hiệu quả nhất đó là đừng chụp vội. Hãy
+chú tâm lắng nghe trước theo kịp bài
+giảng của giáo viên. Thậm chí ghi chép
+bằng tay sẽ hiệu quả hơn so với việc
+chúng ta chụp ảnh. Đối với việc nâng cao
+sự hiểu biết cũng như thế. Chúng ta
+không nên chỉ dò tìm đầu mối mà còn phải
+chủ động để tâm và ghi nhớ. Nếu chỉ dừng
+lại ở tìm kiếm, bạn vẫn sẽ không thể
+thoát khỏi sự ỷ lại và công nghệ. Hãy
+dùng công cụ như một phần mở rộng cho
+não, nhưng đừng để nó quyết định trí nhớ
+của bạn. Ví dụ, sau khi tìm kiếm, bạn có
+thể ghi chép rồi thuật lại định nghĩa
+điểm kiến thức bằng lời nói của bạn rồi
+ôn tập theo thời gian cách đoạn. Lúc ấy
+bạn không chỉ biết kiến thức đó là gì,
+hiểu được bản chất nhiều vấn đề mà quan
+trọng nhất là bạn có thể phản ứng ngay
+khi cần. Một cách khác không kém quan
+trọng để phá vỡ tình trạng siêu thiếu
+hiểu biết, đó chính là phát triển năng
+lực ngôn ngữ. Trong sách có đưa ra một
+kết quả nghiên cứu những người phát âm
+đúng, không có lỗi sai chính tả, thường
+có thu nhập cao hơn. Phương pháp nâng
+cao năng lực ngôn ngữ một cách trực tiếp
+nhất là cải thiện việc sử dụng sai từ,
+sai chính tả, nâng cao vốn từ của bạn
+qua việc không ngừng đọc sách nhiều thể
+loại, đặc biệt là văn học hoặc là tập
+viết. Có thể bắt đầu từ viết nhật ký
+hàng ngày. Bởi vì ngôn ngữ không chỉ là
+công cụ biểu đạt mà còn là công cụ tư
+duy. Bạn càng có vốn ngôn ngữ phong phú
+và chính xác thì càng dễ nắm bắt bản
+chất vấn đề. Ngược lại, khi một người mơ
+hồ trong cách nói thường cũng mơ hồ
+trong suy nghĩ. Giống như Anh Stan đã
+từng nói, nếu bạn không thể giải thích
+điều gì đó một cách đơn giản thì bạn
+chưa hiểu nó đủ rõ. Khi ngôn ngữ của bạn
+chuẩn xác, mạch lạc thì tư duy và khả
+năng biểu đạt cũng trở nên rõ ràng hơn.
+Cuối cùng sau tất cả nội dung cuốn sách
+này khuyên nhủ, bạn có suy nghĩ gì? Có
+người nghĩ rằng chung quy lại thông điệp
+không mới, vẫn là khích lệ không ngừng
+học hỏi phát triển tư duy. Đúng là trước
+kia nhiều người vận động phát triển tư
+duy đa chiều, ví dụ Carwake, nhà tâm lý
+học nổi tiếng với khái niệm tư duy phát
+triển, khuyến khích chúng ta học đa dạng
+để vượt qua giới hạn của tư duy cố định.
+Hai Robert Deal, chuyên gia NLP lập
+trình ngôn ngữ tư duy đã đề xuất mô hình
+sáu tầng logic. Tronger cổ vũ mọi người
+phát triển tư duy đa ngành vân vân. Vậy
+nhưng tất cả đều chung một nguyên tắc,
+muốn phát triển năng lực tư duy đa chiều
+cũng cần phải đào sâu. Đây là những
+phương pháp tuyệt vời nhưng không dành
+cho số đông bởi chúng đòi hỏi nền tảng
+kiến thức nhất định cùng sự kiên trì rèn
+luyện lâu dài qua việc không ngừng đọc
+sách đa lĩnh vực, thực hành tư duy phản
+biện. Khác biệt lớn của cuốn sách này
+nằm ở chỗ phổ cập dễ tiếp cận. Phương
+pháp ở đây phù hợp với tất cả mọi người.
+Dù bạn có kiến thức nền yếu hay mạnh, dù
+có bằng đại học hay không, chỉ cần một
+thiết bị số và công cụ tìm kiếm hay AI,
+bạn đã có thể tự cập nhật kiến thức phổ
+thông cho bản thân. Chúng không đòi hỏi
+chiếu sâu, cho dù bạn học nông cũng
+được, nhưng có thể tích lũy những đầu
+mối kiến thức đang ngành, đang quý.
+Chúng dẫn lối bạn để khám phá thêm kiến
+thức từ trên mạng. Tự phản biện xác thực
+những thông tin này và quan trọng nhất
+nó sẽ thắp lên ngọn lửa ham học hỏi
+trong bạn. Nếu kiến thức của bạn chưa
+vững, việc tích hợp liên kết những đầu
+mối kiến thức đa dạng sẽ trở thành
+phương pháp học tập thay đổi cuộc đời.
+Nếu bạn đã là chuyên gia một ngành nghề
+nào đó, việc không ngừng mở rộng, hiểu
+biết đa lĩnh vực sẽ giúp bạn thoát khỏi
+lối mòn tư duy, vươn tầm uyên bác, nắm
+bắt cơ hội mới và nâng cao chất lượng
+sống. Chính tác giả của cuốn sách này là
+một minh chứng sống động nhất cho hành
+trình từ bình thường trở nên tài giỏi.
+Dù đã ngoài 60 tuổi nhưng ông vẫn đang
+kiên trì trên con đường học tập suốt
+đời, xuất thân từ chuyên ngành vật lý
+của học viện công nghệ Massachusett.
+Nhưng sau đó ông đã mở rộng sang nhiều
+lĩnh vực khác như toán học, xã hội học,
+quản trị học, chính trị học và cả văn
+học. Tác giả còn sáng tác hơn 14 cuốn
+sách với các chủ đề và phong cách đa
+dạng.
+Mỗi cuốn đều khiến người đọc phải suy
+ngẫm sâu sắc và ông được mệnh danh là
+vua sách bán chạy trên đỉnh cao tư tưởng
+từng hai lần có tên trong đề cử giải
+Perer. Mong rằng nội dung chia sẻ ngày
+hôm nay sẽ đong lại trong bạn một nguồn
+cảm hứng học hỏi vô tận. Chúc bạn toàn
+nắng rực rỡ trên con đường hướng về sự
+phong phú tri thức, sông sáng suốt hơn,
+thịnh vượng hơn, tự do hơn. Hãy tận dụng
+sự phát triển của công nghệ, trí tuệ
+nhân tạo để làm chủ trí não của mình.
+Thay vì bị công cụ số thật toán, tâm lý
+số đông, ham muốn giàu có, xiêm xích
+chính mình. Mỗi ngày học thêm một ít,
+hiểu thêm một ít. Tuy nhỏ bé nhưng khi
+tích lũy lại, nó sẽ tạo ra một hiệu ứng
+lãi kép giúp bạn thay đổi hoàn toàn. Và
+những bước đi đơn giản này của bạn cũng
+có thể góp phần sức mạnh và tan bức
+tường vô tri toàn cầu từ gốc rễ. Cảm ơn
+bạn đã lắng nghe. Nếu bạn cảm thấy video
+này có ích, hãy chia sẻ tới những người
+cần nó. Đừng quên tặng mình một nút
+like, nhấn nút đăng ký, mở nút chuông
+thông báo để đón xem video mới nhất mỗi
+tuần. Một lần nữa cảm ơn các bạn và hẹn
+gặp lại các bạn ở những video tiếp theo.
